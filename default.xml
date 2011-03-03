@@ -53,6 +53,7 @@
   <project path="device/samsung/captivate" name="teamhacksung/android_device_samsung_captivate" remote="github" />
   <project path="device/samsung/crespo" name="CyanogenMod/android_device_samsung_crespo" remote="github" />
   <project path="device/samsung/galaxys" name="teamhacksung/android_device_samsung_galaxys" remote="github" />
+  <project path="device/samsung/galaxysb" name="teamhacksung/android_device_samsung_galaxysb" remote="github" />
  <project path="device/samsung/vibrant" name="teamhacksung/android_device_samsung_vibrant" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
