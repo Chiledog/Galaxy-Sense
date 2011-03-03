@@ -17,6 +17,7 @@
   <project path="buildscripts" name="teamhacksung/buildscripts" remote="github">
     <copyfile src="samsung/build.sh" dest="build.sh" />
   </project>
+  <project path="releasetools" name="teamhacksung/releasetools" remote="github" />
 
   <project path="build" name="CyanogenMod/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
