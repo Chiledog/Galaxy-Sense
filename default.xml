@@ -261,6 +261,8 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
+<project path="vendor/teamhacksung/themes/galaxys" name="teamhacksung/vendor_teamhacksung_themes_galaxys" remote="github" revision="master" />
+
   <project path="android" name="CyanogenMod/android" remote="github" />
 
 </manifest>
