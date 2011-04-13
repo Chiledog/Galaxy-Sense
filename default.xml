@@ -19,7 +19,7 @@
   </project>
   <project path="releasetools" name="teamhacksung/releasetools" remote="github" />
 
-  <project path="build" name="teamhacksung/android_build" remote="github">
+  <project path="build" name="CyanogenMod/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
