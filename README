@@ -15,10 +15,10 @@ repo sync
 
 Then check the code and 
 
-./build.sh <device> 
+./build.sh <device> kernel
 
 i.e.
 
-./build.sh galaxys
+./build.sh galaxys kernel
 
 
